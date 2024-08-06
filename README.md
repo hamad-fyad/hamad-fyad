@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamad-fyad
-- 👀 I’m interested in DevOps engineering
+- 👀 I’m interested in DevOps engineering or software engineering or software QA engineering 
 - 🌱 I’m currently learning new automation techniques and cloud technologies
-- 💞️ I’m looking to collaborate on projects related to CI/CD pipelines and infrastructure as code
+- 💞️ I’m looking to collaborate on projects related to CI/CD pipelines and infrastructure as code 
 - 📫 You can reach me via email at hamad.fyad.05@gmail.com or on LinkedIn at www.linkedin.com/in/hamad-fyad
 - ⚡ Fun fact: I enjoy hiking in remote areas to recharge my creativity outside of tech!
 <!---
